@@ -1,0 +1,13 @@
+table, th,tr,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: auto;
+    height:auto;
+}
+
+ #lastname {
+    margin-left: 19px;
+}
+#firstname{
+    margin-left: 17px;
+}
